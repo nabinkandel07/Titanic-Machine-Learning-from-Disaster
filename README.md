@@ -33,7 +33,6 @@ titanic-survival-prediction/
 ├── train.csv               # Training dataset
 ├── test.csv                # Test dataset
 ├── titanic_model.ipynb     # Full ML workflow (Jupyter Notebook)
-├── titanic_model.py        # Python script version
 ├── submission.csv          # Generated submission file
 └── README.md               # Project documentation
 ```
